@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="JwtStore.Api/JwtStore.Api.csproj" />
+  <Project Path="JwtStore.Core/JwtStore.Core.csproj" />
+  <Project Path="JwtStore.Infra/JwtStore.Infra.csproj" />
+</Solution>
